@@ -7,7 +7,7 @@
   description: | # this will include new lines to allow paragraphs
     I am currently working at Baylor College of Medicine as a bioinformatics programmer mostly foucs on proteomics and proteogenomics data analysis and workflow development.
 
-- layout: right
+- layout: left
   company: BGI-Shenzhen
   link: https://en.genomics.cn/
   dates: March 2016 - October 2018
