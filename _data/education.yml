@@ -6,7 +6,7 @@
   description: | # this will include new lines to allow paragraphs
     I spent first two years in Qingdao University.
 
-- layout: right
+- layout: left
   name: Missouri State University
   dates: Fall of 2015
   qualification: Exchange studet
