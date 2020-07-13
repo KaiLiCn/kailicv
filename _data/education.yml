@@ -1,9 +1,14 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
+  name: Qingdao University
+  dates: 2013 - 2017
+  qualification: Bachelor Biotechnology (Genomics and Bioinformatics)
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    I spent first two years and fall semester of junior year in Qingdao University.
+
+- layout: right
+  name: Missouri State University
+  dates: Fall of 2015
+  qualification: Exchange studet
+  description: | # this will include new lines to allow paragraphs
+    I went to Missouri State University in my Junior fall semester with full scholarship.
