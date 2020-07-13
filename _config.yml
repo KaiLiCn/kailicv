@@ -11,7 +11,7 @@ cv   : "resume.pdf"
 #website: Your website (eg. https://google.com)(optional)
 
 # Social links
-twitter_username: KaiPeiLi
+#twitter_username: 
 github_username:  KaiLiCn
 #dribbble_username: jekyll
 #facebook_username: jekyll
@@ -43,7 +43,16 @@ projects_content: |
 
 # Experience Section
 experience_title: Work Experience #(Use this to override about experience section title)
-experience_content: |
+experience:
+- years: 2012–-
+  employer: Πανεπιστήμιο Πατρας
+  job: Φοιτητρια (2012--) 
+  city: Πατρα, Ελλάδα
+- years: 2012–-
+  employer: Πανεπιστήμιο Πατρας
+  job: Φοιτητρια (2012--) 
+  city: Πατρα, Ελλάδα
+
   
 
 # Education Section
