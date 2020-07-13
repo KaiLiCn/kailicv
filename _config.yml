@@ -42,7 +42,17 @@ projects_content: |
   - CPTAC
 
 # Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
+experience_title: Work Experience #(Use this to override about experience section title)
+experience_content: 
+  - years: 2012–-
+  employer: Πανεπιστήμιο Πατρας
+  job: Φοιτητρια (2012--) 
+  city: Πατρα, Ελλάδα
+  - years: 2012–-
+  employer: Πανεπιστήμιο Πατρας
+  job: Φοιτητρια (2012--) 
+  city: Πατρα, Ελλάδα
+  
 
 # Education Section
 # education_title: Education #(Use this to override about education section title)
