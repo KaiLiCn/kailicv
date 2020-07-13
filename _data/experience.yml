@@ -1,10 +1,16 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
+  company: Baylor College of Medicine
+  link: https://www.bcm.edu/
+  job_title: Bioinformatics Programmer
+  dates: December 2018 - present
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    I am currently working at Baylor College of Medicine as a bioinformatics programmer mostly foucs on proteomics and proteogenomics data analysis and workflow development.
+
+- layout: right
+  company: BGI-Shenzhen
+  link: https://en.genomics.cn/
+  dates: March 2016 - October 2018
+  job_title: Bioinformatician
+  description: |
+    In first year, I was an intern student working in Bioinformatics platform, MS department at BGI-Shenzhen. 
