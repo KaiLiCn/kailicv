@@ -53,12 +53,19 @@ more_content: | # this will include new lines to allow paragraphs
 more_title: Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   Wang, X., Codreanu, S. G., Wen, B., Li, K., Chambers, M. C., Liebler, D. C., & Zhang, B. (2018). Detection of proteome diversity resulted from alternative splicing is limited by trypsin cleavage specificity. Molecular & Cellular Proteomics, 17(3), 422-430.
+  
   Clark, D. J., Dhanasekaran, S. M., Petralia, F., Pan, J., Song, X., Hu, Y., ... & Ma, W. (2019). Integrated proteogenomic characterization of clear cell renal cell carcinoma. Cell, 179(4), 964-983.
+  
   Li, K., Vaudel, M., Zhang, B., Ren, Y., & Wen, B. (2019). PDV: an integrative proteomics data viewer. Bioinformatics, 35(7), 1249-1251.
+  
   Dou, Y., Kawaler, E. A., Zhou, D. C., Gritsenko, M. A., Huang, C., Blumenberg, L., ... & Liu, W. (2020). Proteogenomic characterization of endometrial carcinoma. Cell, 180(4), 729-748.
+  
   Li, B., Li, N., Zhang, L., Li, K., Xie, Y., Xue, M., & Zheng, Z. (2018). Hsa_circ_0001859 regulates ATF2 expression by functioning as an MiR-204/211 sponge in human rheumatoid arthritis. Journal of immunology research, 2018.
+  
   Ren, Z., Qi, D., Pugh, N., Li, K., Wen, B., Zhou, R., ... & Jones, A. R. (2019). Improvements to the rice genome annotation through large-scale analysis of RNA-Seq and proteomics data sets. Molecular & Cellular Proteomics, 18(1), 86-98.
+  
   Gillette, M. A., Satpathy, S., Cao, S., Dhanasekaran, S. M., Vasaikar, S. V., Krug, K., ... & Krek, A. (2020). Proteogenomic characterization reveals therapeutic vulnerabilities in lung adenocarcinoma. Cell, 182(1), 200-225.
+  
   Wen, B., Li, K., Zhang, Y., & Zhang, B. (2020). Cancer neoantigen prioritization through sensitive and reliable proteogenomics analysis. Nature communications, 11(1), 1-14.
 
 # Footer
