@@ -5,7 +5,7 @@
   job_title: Bioinformatics Programmer
   dates: December 2018 - present
   description: | # this will include new lines to allow paragraphs
-    I am currently working at Baylor College of Medicine as a bioinformatics programmer mostly foucs on proteomics and proteogenomics data analysis and workflow development. In this almost two years, I was so glad to anticipate several Clinical Proteomic Tumor Analysis Consortium (CPTAC) projects and did neoantigen analysis for them. During this process, my college Bo Wen developed AutoRt which predicated retention time very precisely
+    I am currently working at Baylor College of Medicine as a bioinformatics programmer mostly foucs on proteomics and proteogenomics data analysis and workflow development. In this two years, I am so glad to anticipate several Clinical Proteomic Tumor Analysis Consortium (CPTAC) projects and did neoantigen analysis for them. During this process, I worked with my genius colleges to develop many great tools such as NeoFlow and DeepRescore.
 
 - layout: left
   company: BGI-Shenzhen
@@ -13,4 +13,4 @@
   dates: March 2016 - October 2018
   job_title: Bioinformatician
   description: |
-    In first year, I was an intern student working in Bioinformatics platform, MS department at BGI-Shenzhen. After getting my bchelor degree, I joined BGI-Shenzhen as a Bioinformatician in MS department.
+    In first year, I was an intern student working in Bioinformatics platform, MS department at BGI-Shenzhen. After getting my bchelor degree, I joined BGI-Shenzhen as a Bioinformatician in MS department. In BGI, I mainly took in charge of PDV project which was to develop an integrated proteomics data viewer.
