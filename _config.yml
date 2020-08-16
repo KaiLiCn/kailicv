@@ -29,12 +29,8 @@ about_profile_image: images/Profile_2.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a bioinformatics programmer with four years experience in proteomics and proteogenomics area. In these years, I developed many proteomics tools and workflow with my collegue. For example, PDV, developed by our team, was recommended by the journal editor and college professor. 
   After work, I am a big fan of tennis.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+  
     - [My CV](https://kailicn.github.io/kailicv/KaiLi_2020.pdf)
-    - Tables
-    - Links
-    - images/Profile_2.jpg
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -49,11 +45,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  **Skills**: Java, Linux, R, P ython, AWS
-  **Conference**: Speaker on ASMS(American Society for Mass Spectrometry) 2020 Reboot
-  This is where you can write a  more about yourself. You could title this section **Interests** and include some of your other interests.
-
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  **Skills:** Java, Linux, R, P ython, AWS
+  
+  **Conference:** Speaker on ASMS(American Society for Mass Spectrometry) 2020 Reboot
+  
 
 # Footer
 footer_show_references: true
