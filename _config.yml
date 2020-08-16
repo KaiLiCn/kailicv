@@ -27,13 +27,13 @@ github_username:  KaiLiCn
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/Profile_2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a bioinformatics programmer with four years experience in proteomics and proteogenomics area. In these years, I developed many proteomics tools and workflow with my collegue. For example, PDV, developed by our team, was recommended by the journal editor and college professor. 
+  I am a bioinformatics programmer with four years experience in proteomics and proteogenomics area. In these years, I developed many proteomics tools and workflows with my collegues. For example, PDV, developed by our team, was recommended by the journal editor and college professor. 
   After work, I am a big fan of tennis.
   
     - [My CV](https://kailicn.github.io/kailicv/KaiLi_2020.pdf)
 
 # Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
+projects_title: Publications #(Use this to override about projects section title)
 # projects_content: |
 
 # Experience Section
