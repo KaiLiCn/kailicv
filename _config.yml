@@ -27,10 +27,10 @@ github_username:  KaiLiCn
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/Profile_2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a bioinformatics programmer with four years experience in proteomics and proteogenomics area. In these years, I developed many proteomics tools and workflows with my collegues. For example, PDV, developed by our team, was recommended by the journal editor and college professor. 
-  After work, I am a big fan of tennis.
+  I am a bioinformatics programmer with four years experience in proteomics and proteogenomics area. In these years, I developed many proteomics tools and workflows with my collegues. 
+  I am a big fan of tennis.
   
-    - [My CV](https://kailicn.github.io/kailicv/KaiLi_2020_CV.pdf)
+    - [My CV](https://kailicn.github.io/kailicv/CV Kai Li.pdf)
 
 # Projects Section
 projects_title: Publications #(Use this to override about projects section title)
@@ -45,7 +45,7 @@ projects_title: Publications #(Use this to override about projects section title
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  **Skills:** Java, Linux, R, P ython, AWS
+  **Skills:** Java, Linux, R, Python, AWS
   
   **Conference:** Speaker on ASMS(American Society for Mass Spectrometry) 2020 Reboot
   
