@@ -5,12 +5,12 @@
   job_title: Bioinformatics Programmer
   dates: December 2018 - present
   description: | # this will include new lines to allow paragraphs
-    I am currently working at Baylor College of Medicine as a bioinformatics programmer mostly foucs on proteomics and proteogenomics data analysis and workflow development. In this two years, I am so glad to anticipate several Clinical Proteomic Tumor Analysis Consortium (CPTAC) projects and did neoantigen analysis for them. During this process, I worked with my genius colleges to develop many great tools such as NeoFlow and DeepRescore.
-
+    I am currently working at Baylor College of Medicine as a bioinformatics programmer, mostly focus on proteomics and proteogenomics data analysis and workflow development.
+    
 - layout: left
   company: BGI-Shenzhen
   link: https://en.genomics.cn/
   dates: March 2016 - October 2018
   job_title: Bioinformatician
   description: |
-    In first year, I was an intern student working in Bioinformatics platform, MS department at BGI-Shenzhen. After getting my bchelor degree, I joined BGI-Shenzhen as a Bioinformatician in MS department. In BGI, I mainly took in charge of PDV project which was to develop an integrated proteomics data viewer.
+    I joined BGI-Shenzhen as a Bioinformatician in the Bioinformatics platform, Mass Spectrometry department at BGI-Shenzhen. In BGI, I developed PDV (Proteomic Data Viewer), a standalone software written in Java. This lightweight visualization tool enables intuitive and fast exploration of diverse, large-scale proteomic datasets, including database search results, de novo sequencing results, proteogenomics files, MS/MS data in mzML/mzXML format, and data from public proteomics repositories. This resulted in a first-author paper in Bioinformatics, which has been cited over twenty times since its publication in 2019.
